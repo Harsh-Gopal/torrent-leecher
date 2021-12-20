@@ -1,5 +1,4 @@
 # Torrent Leecher
-### Moded By <a href='https://youtube.com/channel/UCXl_dzFIxfmAlaPtD7AZY7A'>𝕎𝕆𝕃𝕋ℝ𝔼𝕏</a>
 
 - This Bot allows you to leech (re-upload) contents from internet including torrent to telegram.
 
@@ -37,6 +36,3 @@ Change config by set the corresponding environment variable name.
 ## Deploy button
 
 <p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
-
-### Credits:
-- [Azamaulanaa](https://github.com/azamaulanaaa/botkaca) For Main Repo.
